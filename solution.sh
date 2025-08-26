@@ -18,7 +18,7 @@ wc -l data.csv
 
 # 5. Find all files containing the word "error" in the "logs" folder
 # Your command here
-grep -r error ./logs
+grep -r error logs
 
 # 6. Display the last 10 lines of "app.log"
 # Your command here
