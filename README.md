@@ -1,6 +1,6 @@
 # DA1301_assignment
 ## Introduction
-My name is Siddharth Maira. I am interested in programming and math. My hobbies include reading books, coding, playing badminton and listening to music.
+My name is Siddharth Maira, roll number: DA25B047. I am interested in programming and math. My hobbies include reading books, coding, playing badminton and listening to music.
 
 ## What do I like most about git?
 I like the commands `git commit` and `git restore` the most because they are extremely useful for version control on large projects.
